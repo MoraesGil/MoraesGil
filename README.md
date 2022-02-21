@@ -1,9 +1,11 @@
+<a href="https://github-com.translate.goog/MoraesGil?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp">BR? Tradução 🇧🇷</a>
+
 <h3> :man: &nbsp;About me</h3>
 
 -   👨‍👩‍👦 &nbsp; I'm love my family and be father.
 -   🥋 &nbsp; I like martial arts especially Jiu-Jitsu that I was pupil for 3 years.
 -   🎓 &nbsp; I'm came back in 2022 to <a href="https://www.unoeste.br/graduacao/faculdade-de-sistemas-internet">university</a> to finish my college degree after left behind in 2015 because many things happen including motocycle accident, faster career growth and COVID19 pandemic.
--   👨🏻‍💻 &nbsp; Acting as Front-end developer actually with React, but I also like to develop REST API's, modeling databases and React Native apps, but I've worked only with android apps, I know the about Docker to build basics environments to work with PHP and Node.
+-   👨🏻‍💻 &nbsp; Acting as Front-end developer actually with React, but I also like to develop REST API's, modeling databases and build React Native apps (I've worked only with android projects yet), I know the about Docker to build basics environments to work with PHP and Node.
 
 -   🌱 &nbsp; I'm learning more about automated tests, microservices and I intend to help developers to find the best professionals inside them sharing the knowledge I have been accumulated over the years of my career.
 
@@ -18,6 +20,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
