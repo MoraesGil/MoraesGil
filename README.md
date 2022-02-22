@@ -2,10 +2,12 @@
 
 <h3> :man: &nbsp;About me</h3>
 
--   👨‍👩‍👦 &nbsp; I'm love my family and be father.
--   🥋 &nbsp; I like martial arts especially Jiu-Jitsu that I was pupil for 3 years.
--   🎓 &nbsp; I'm came back in 2022 to <a href="https://www.unoeste.br/graduacao/faculdade-de-sistemas-internet">university</a> to finish my college degree after left behind in 2015 because many things happen including motocycle accident, faster career growth and COVID19 pandemic.
--   👨🏻‍💻 &nbsp; Acting as Front-end developer actually with React, but I also like to develop REST API's, modeling databases and build React Native apps (I've worked only with android projects yet), I know the about Docker to build basics environments to work with PHP and Node.
+-   👨‍👩‍👦 &nbsp; I love my family being a father.
+-   🥋 &nbsp; I like martial arts especially Jiu-Jitsu that I was a pupil for 3 years.
+-   🎓 &nbsp; I came back in 2022 to <a href="https://www.unoeste.br/graduacao/faculdade-de-sistemas-internet">university</a> to finish my college degree after driving me away in 2015 because a lot of things happened including a motorcycle accident, faster career growth, and COVID19 pandemic.
+-   👨🏻‍💻 &nbsp; currently I'm working as a front-end developer with React, however, I also like to work in backend developing REST APIs, modeling databases, and queries.
+ I know about Docker enough to build basic environments to work with PHP and Node.
+and finally but not less important (I think is my favorite), I have the experience to build Android apps in React Native, you can meet my last app <a href="https://biosom.com.br/"> clicking here </a>
 
 -   🌱 &nbsp; I'm learning more about automated tests, microservices and I intend to help developers to find the best professionals inside them sharing the knowledge I have been accumulated over the years of my career.
 
