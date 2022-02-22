@@ -16,7 +16,7 @@ and finally but not less important (I think is my favorite), I have the experien
 **Languages and Frameworks**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Typecript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=type)
+![Typecript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -30,12 +30,7 @@ and finally but not less important (I think is my favorite), I have the experien
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-Postgre-333333?style=flat&logo=PostgreSQL)
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
+ 
 **DevOps**
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -45,7 +40,8 @@ and finally but not less important (I think is my favorite), I have the experien
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
 **Other Daily Tools**
-
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
