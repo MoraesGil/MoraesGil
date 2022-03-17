@@ -67,3 +67,7 @@ and finally but not less important (I think is my favorite), I have the experien
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
 </div>
+
+<h3>Did you find some code here that helped you a lot? </h3>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I5BN3DG)
