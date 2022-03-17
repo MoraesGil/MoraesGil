@@ -58,13 +58,15 @@ and finally but not less important (I think is my favorite), I have the experien
 <h3> :earth_americas: &nbsp; Where find me: </h3>
 
 <div> 
-<a href="https://www.linkedin.com/in/moraesgil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.youtube.com/channel/UCuHv1xKgaJwlUz_lRWp0Kmg" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://www.linkedin.com/in/moraesgil/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://www.youtube.com/channel/UCuHv1xKgaJwlUz_lRWp0Kmg" target="_blank">
+   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   
   <a href="https://www.instagram.com/dev.altovalor/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
 </div>
 
