@@ -4,7 +4,7 @@
 
 -   👨‍👩‍👦 &nbsp; I love my family being a father.
 -   🥋 &nbsp; I like martial arts especially Jiu-Jitsu that I was a pupil for 3 years.
--   🎓 &nbsp; I came back in 2022 to <a href="https://www.unoeste.br/graduacao/faculdade-de-sistemas-internet">university</a> to finish my college degree after driving me away in 2015 because a lot of things happened including a motorcycle accident, faster career growth, and COVID19 pandemic.
+-   🎓 &nbsp; I came back in 2022 to <a href="https://www.unoeste.br/graduacao/faculdade-de-sistemas-internet">university</a> to finish my college degree after driving me away in 2015 because a lot of things happened including a motorcycle accident, faster career growth, and COVID19 pandemic, so my conclusion date was finnally at Aug/2022 👨🏼‍🎓.
 -   👨🏻‍💻 &nbsp; currently I'm working as a front-end developer with React, however, I also like to work in backend developing REST APIs, modeling databases, and queries.
  I know about Docker enough to build basic environments to work with PHP and Node.
 and finally but not less important (I think is my favorite), I have the experience to build Android apps in React Native, you can meet my last app <a href="https://biosom.com.br/"> clicking here </a>
