@@ -65,7 +65,7 @@
    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   
-  <a href="https://www.instagram.com/dev.altovalor/" target="_blank">
+  <a href="https://www.instagram.com/devsdealtovalor/" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
 </div>
