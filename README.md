@@ -1,15 +1,15 @@
 <a href="https://github-com.translate.goog/MoraesGil?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp">BR? Tradução 🇧🇷</a>
 
-<h3> :man: &nbsp;About me</h3>
+<h3> :man: &nbsp;About Me</h3>
+👨‍👩‍👦   I love being a father to my family.
 
--   👨‍👩‍👦 &nbsp; I love my family being a father.
--   🥋 &nbsp; I like martial arts especially Jiu-Jitsu that I was a pupil for 3 years.
--   🎓 &nbsp; I came back in 2022 to <a href="https://www.unoeste.br/graduacao/faculdade-de-sistemas-internet">university</a> to finish my college degree after driving me away in 2015 because a lot of things happened including a motorcycle accident, faster career growth, and COVID19 pandemic, so my conclusion date was finnally at Aug/2022 👨🏼‍🎓.
--   👨🏻‍💻 &nbsp; currently I'm working as a front-end developer with React, however, I also like to work in backend developing REST APIs, modeling databases, and queries.
- I know about Docker enough to build basic environments to work with PHP and Node.
-and finally but not less important (I think is my favorite), I have the experience to build Android apps in React Native, you can meet my last app <a href="https://biosom.com.br/"> clicking here </a>
+🥋   I am interested in martial arts, particularly Jiu-Jitsu, which I studied for 3 years.
 
--   🌱 &nbsp; I'm learning more about automated tests, microservices and I intend to help developers to find the best professionals inside them sharing the knowledge I have been accumulated over the years of my career.
+🎓   I returned to university in 2022 to finish my college degree after leaving in 2015 due to various reasons, including a motorcycle accident, fast career growth, and the COVID-19 pandemic. My expected graduation date is in August 2022 👨🏼‍🎓.
+
+👨🏻‍💻   Currently, I am working as a front-end developer with React, but I also enjoy working in back-end development, creating REST APIs, modeling databases, and writing queries. I have enough knowledge of Docker to create basic environments to work with PHP and Node. Furthermore, I have experience building Android apps using React Native. You can see my last app by clicking here: <a href="https://biosom.com.br/">https://biosom.com.br/</a>
+
+🌱   I am currently learning more about automated testing and microservices. My goal is to help other developers find the best professionals within these fields by sharing the knowledge I have accumulated throughout my career. 
 
 <h3> :rocket: &nbsp;My Tech Skills Summary</h3>
 
