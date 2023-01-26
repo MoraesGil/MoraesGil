@@ -1,5 +1,3 @@
-<a href="https://github-com.translate.goog/MoraesGil?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp">BR? Tradução 🇧🇷</a>
-
 <h3> :man: &nbsp;About Me</h3>
 👨‍👩‍👦   I love being a father to my family.
 
