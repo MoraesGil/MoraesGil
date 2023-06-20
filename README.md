@@ -48,10 +48,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop&logoColor=007ACC)
 
 <br/>
- <div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoraesGil&show_icons=true&theme=algolia&include_all_commits=true"/> 
-</div> 
-<br/>
 
 <h3> :earth_americas: &nbsp; Where find me: </h3>
 
