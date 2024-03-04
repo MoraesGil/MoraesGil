@@ -5,7 +5,7 @@
 
 🎓   I returned to university in 2022 to finish my college degree after leaving in 2015 due to various reasons, including a motorcycle accident, fast career growth, and the COVID-19 pandemic, then I got my graduation in August 2022 👨🏼‍🎓.
 
-👨🏻‍💻   Currently, I am working as a front-end developer with React, but I also enjoy working in back-end development, creating REST APIs, modeling databases, and writing queries. I have enough knowledge of Docker to create basic environments to work with PHP and Node. Furthermore, I have experience building Android apps using React Native. You can see my last app by clicking here: <a href="https://biosom.com.br/">https://biosom.com.br/</a>
+👨🏻‍💻   Currently, I am working as a front-end developer with React, but I also enjoy working in back-end development, creating REST APIs, modeling databases, and writing queries. I have enough knowledge of Docker to create basic environments to work with PHP and Node. Furthermore, I have experience building React Native apps. You can see my favorites by clicking here: <a href="https://biosom.com.br/">https://biosom.com.br/</a> and <a href="https://www.kivvon.com/de">https://www.kivvon.com</a>
 
 🌱   I am currently learning more about automated testing and microservices. My goal is to help other developers find the best professionals within these fields by sharing the knowledge I have accumulated throughout my career. 
 
