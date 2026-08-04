@@ -11,7 +11,7 @@ Senior Full-Stack Engineer with **10+ years** building production-grade applicat
 **Background:**
 - **196 MRs** authored across 14 repositories at Indeed (4.5 years) gitlab
 - **207 PRs merged** (99% rate) at Sarstedt AG — 8-country e-commerce platform
-- **100M+ downloads** shipped as sole engineer at Biosom/Hearian Guardian
+- **100k+ downloads** shipped as sole engineer at Biosom/Hearian Guardian
 - **Full-cycle architect** — from product design to performance optimization to team scaling
 
 **Current Focus:**
